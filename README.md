@@ -1,3 +1,3 @@
 # TestUnit
 
-This repo contains my unit test for some C# classes
+This repo contains my simple unit tests for some C# classes. 
